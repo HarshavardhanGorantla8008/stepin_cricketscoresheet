@@ -32,9 +32,10 @@
 | ----- | ----- | ------- | -------- |
 | HR01 | User shall be able to see the score board | Technical | Implemented |
 | HR02 | User shall be able to create files | Technical | Implemented |
-| Hr03 | User shall be able to open the files | Implemented |
+| Hr03 | User shall be able to open the files | Technical | Implemented |
 ## Low Level requirements:
 | ID | Description | HLR ID | Status |
-| LR01 | user should always be able to execute the files | HR01 | IMplemented | 
+| ----- | ----- | ----- | ------ |
+| LR01 | user can albe to view the scoreboard  | HR01 | IMplemented | 
 | LR02 | We can create different multiple files for each match | HR02 | Implemented |
                     
