@@ -1,5 +1,4 @@
-# stepin_cricketscoresheet
-
+# StepIn-Mini-project
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
@@ -18,7 +17,7 @@ Build | Code Quality | Unity | [Git Inspector](using github.io option)
 
 |PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
 |:---:|:---:|:---:|:---:|:---:|
-|`hvn` | Mhg  | Complete project   | 6   | 6     |
+|`260459` | Madhura Khedekar  | Complete project   | 6   | 6     |
     
 
 ## Challenges Faced and How Was It Overcome
