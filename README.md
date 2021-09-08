@@ -2,7 +2,7 @@
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI - Build Status](https://github.com/HarshavardhanGorantla8008/stepin_cricketscoresheet/actions/workflows/c%20Cl.yml/badge.svg)](https://github.com/HarshavardhanGorantla8008/stepin_cricketscoresheet/actions/workflows/c%20Cl.yml)|
+[![C/C++ CI - Build Status](https://github.com/HarshavardhanGorantla8008/stepin_cricketscoresheet/actions/workflows/c%20Cl.yml/badge.svg)](https://github.com/HarshavardhanGorantla8008/stepin_cricketscoresheet/actions/workflows/c%20Cl.yml)| [![CI-Coverage](https://github.com/HarshavardhanGorantla8008/stepin_cricketscoresheet/actions/workflows/gcov.yml/badge.svg)](https://github.com/HarshavardhanGorantla8008/stepin_cricketscoresheet/actions/workflows/gcov.yml)
 
 ## Folder structure:
 
